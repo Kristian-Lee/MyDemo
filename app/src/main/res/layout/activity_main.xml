@@ -75,15 +75,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btnNavigation"
-                android:text="EasyNavigation"
+                android:text="BottomNavigation"
                 android:textAllCaps="false"/>
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/btnHome"
-                android:text="Navigation"
-                android:textAllCaps="false"/>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
